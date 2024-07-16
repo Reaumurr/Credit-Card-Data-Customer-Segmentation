@@ -4,6 +4,7 @@ This program is made to carry out Customer Segmentation from a bank's credit car
 
 ## Dataset Description
 | Feature | Description |
+| -- | -- |
 | CUST_ID | The unique identifier for each customer.|
 | BALANCE | The total current balance of the customer's account.|
 | BALANCE_FREQUENCY | The frequency with which the account balance is updated.|
