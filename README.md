@@ -25,7 +25,7 @@ This program is made to carry out Customer Segmentation from a bank's credit car
 | TENURE | The number of months the customer has been with the bank.|
 
 
-## Business Insight:
+## Conclusion & Business Insight:
 ### Clusters suggest that customers can be segmented into three groups based on their behavior:
 
 - High-balance, cash-advance users (Cluster 0): These customers tend to have higher balances and use cash advance more frequently. They also make higher minimum payments and have a higher full payment rate.
